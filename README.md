@@ -17,10 +17,9 @@ Admin Dashboard
 Add Item Form
 
 
-
 Add Customer Form
 
-
+![Screenshot (129)](https://user-images.githubusercontent.com/87766409/133186513-778a609f-29e3-44ce-b25b-5c5023169032.png)
 
 Order Form
 
