@@ -14,3 +14,14 @@ Admin Dashboard
 
 ![Screenshot (132)](https://user-images.githubusercontent.com/87766409/133186227-db39abb5-c6ae-4784-bfb3-23d28cff9980.png)
 
+Add Item Form
+
+
+
+Add Customer Form
+
+
+
+Order Form
+
+![Screenshot (128)](https://user-images.githubusercontent.com/87766409/133186323-cd4dd8f3-7397-463d-812c-1ce652fcb7a3.png)
