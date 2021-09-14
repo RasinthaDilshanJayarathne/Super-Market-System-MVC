@@ -16,6 +16,7 @@ Admin Dashboard
 
 Add Item Form
 
+![Screenshot (133)](https://user-images.githubusercontent.com/87766409/133186601-ed0cb970-e6f7-437a-a69d-178c2d2e21ad.png)
 
 Add Customer Form
 
